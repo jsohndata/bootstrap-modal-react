@@ -1,8 +1,8 @@
 # Study of Bootstrap Modal in React
 
-[Landing](./src/assets/screen-shot-1.webp)
+![Landing](./src/assets/images/screen-shot-1.webp)
 
-[Modal](./src/assets/screen-shot-2.webp)
+![Modal](./src/assets/images/screen-shot-2.webp)
 
 # Change modal's background color
 ```
